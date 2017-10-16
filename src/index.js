@@ -5,6 +5,7 @@ import {combineReducers, createStore, applyMiddleware} from 'redux';
 import {Router, Route, IndexRoute, browserHistory} from 'react-router';
 import {Provider} from 'react-redux'
 import './CSS/index.css';
+import './CSS/App.css';
 import registerServiceWorker from './registerServiceWorker';
 import Movies from './Containers/MoviesIndex';
 import Home from './Components/Home';
