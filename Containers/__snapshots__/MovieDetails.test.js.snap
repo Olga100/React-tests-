@@ -1,0 +1,96 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<MovieDetailsView/> Renders  component with information of the movie 1`] = `
+<div>
+  <div
+    className="movie-details-left"
+  >
+    title
+    <br />
+    Likes: 
+    11
+    <br />
+    <span
+      style={
+        Object {
+          "cursor": "default",
+        }
+      }
+    >
+      <span
+        className="star"
+        onClick={[Function]}
+      >
+        ★
+      </span>
+      <span
+        className="star"
+        onClick={[Function]}
+      >
+        ★
+      </span>
+      <span
+        className="star"
+        onClick={[Function]}
+      >
+        ★
+      </span>
+      <span
+        className="star"
+        onClick={[Function]}
+      >
+        ☆
+      </span>
+      <span
+        className="star"
+        onClick={[Function]}
+      >
+        ☆
+      </span>
+    </span>
+  </div>
+  <div
+    className="movie-details-right"
+  >
+    <div
+      className="center-container"
+    >
+      <img
+        src="http://www.theamazingpics.com/wp-content/uploads/2014/05/Amazing-Picture-of-A-Japanese-Garden-in-Portland-USA.jpg"
+      />
+    </div>
+    <div>
+      <b>
+        Director:
+      </b>
+       
+      Petya
+       
+    </div>
+    <div>
+      <b>
+        Actors:
+      </b>
+       
+      Vasya, Sasha
+       
+    </div>
+    <div>
+      <b>
+        Genres:
+      </b>
+       
+      horror
+       
+    </div>
+    <div>
+      <b>
+        Description:
+      </b>
+       
+      This is a very good movie!
+       
+    </div>
+  </div>
+</div>
+`;

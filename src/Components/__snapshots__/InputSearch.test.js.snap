@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<InputSearch  /> Renders input search component 1`] = `
+<div
+  className="fieldInput"
+>
+  <button
+    className="submit"
+    onClick={[Function]}
+    type="submit"
+  >
+    🔎
+  </button>
+  <input
+    className="input"
+    onChange={[Function]}
+    placeholder="Search by name"
+    type="search"
+    value=""
+  />
+</div>
+`;

@@ -1,0 +1,90 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CreateMovieForm/> Renders input component for creating of the movie 1`] = `
+<div
+  className="formContainer"
+>
+  <div
+    className="inputContainer"
+  >
+    Title
+    <input
+      className="titleForm"
+      placeholder="enter the title of the movie"
+      type="text"
+    />
+  </div>
+  <div
+    className="inputContainer"
+  >
+    Poster
+    <input
+      className="titleForm"
+      placeholder="enter the Url of the poster"
+      type="text"
+    />
+  </div>
+  <div
+    className="inputContainer"
+  >
+    Genres
+    <input
+      className="genresForm"
+      placeholder="enter the genres of the movie"
+      type="text"
+    />
+  </div>
+  <div
+    className="inputContainer"
+  >
+    Actors
+    <input
+      className="actorsForm"
+      placeholder="enter the actors of the movie"
+      type="text"
+    />
+  </div>
+  <div
+    className="inputContainer"
+  >
+    Director
+    <input
+      className="directorForm"
+      placeholder="enter the director of the movie"
+      type="text"
+    />
+  </div>
+  <div
+    className="inputContainer"
+  >
+    Description
+    <textarea
+      className="descriptionForm"
+      cols="30"
+      name="text"
+      placeholder="enter the description of the movie"
+      rows="6"
+    >
+       
+    </textarea>
+  </div>
+  <button
+    id="submitCreateForm"
+    onClick={[Function]}
+    type="submit"
+  >
+    Create Movie
+  </button>
+  <a
+    onClick={[Function]}
+    style={Object {}}
+  >
+    <button
+      className="backToMovies"
+      type="button"
+    >
+      Back to MoviesList
+    </button>
+  </a>
+</div>
+`;

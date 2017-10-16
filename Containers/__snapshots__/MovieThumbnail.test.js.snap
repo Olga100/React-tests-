@@ -1,0 +1,99 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<MovieThumbnailView/> Renders   component  for the movie list 1`] = `
+<div
+  className="movie-thumbnail-title"
+  onClick={undefined}
+>
+  <div
+    className="title"
+  >
+    <small>
+      title
+    </small>
+  </div>
+  <div
+    className="likes"
+  >
+    <button
+      className="thumb"
+      onClick={[Function]}
+      type="button"
+    >
+      <i
+        aria-hidden="true"
+        className="fa fa-thumbs-o-up"
+      />
+    </button>
+    <button
+      className="thumb"
+      onClick={[Function]}
+      type="button"
+    >
+      <i
+        aria-hidden="true"
+        className="fa fa-thumbs-o-down"
+      />
+    </button>
+    <small>
+      likes
+    </small>
+    <hr />
+    <span
+      className="amountLike"
+    >
+      42
+    </span>
+  </div>
+  <img
+    alt="poster"
+    className="image"
+    src="http://www.theamazingpics.com/wp-content/uploads/2014/05/Amazing-Picture-of-A-Japanese-Garden-in-Portland-USA.jpg"
+  />
+  <div
+    className="clear"
+  />
+  <div
+    className="stars"
+  >
+    <span
+      style={
+        Object {
+          "cursor": "default",
+        }
+      }
+    >
+      <span
+        className="star"
+        onClick={[Function]}
+      >
+        ★
+      </span>
+      <span
+        className="star"
+        onClick={[Function]}
+      >
+        ★
+      </span>
+      <span
+        className="star"
+        onClick={[Function]}
+      >
+        ★
+      </span>
+      <span
+        className="star"
+        onClick={[Function]}
+      >
+        ★
+      </span>
+      <span
+        className="star"
+        onClick={[Function]}
+      >
+        ☆
+      </span>
+    </span>
+  </div>
+</div>
+`;
